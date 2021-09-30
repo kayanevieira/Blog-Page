@@ -14,7 +14,9 @@ body{
     justify-content: center;
     background-image: var(--linear);
     height: 10em;
+    width: 100%;
 }
+
 
 .main-header nav ul{
     display: flex;
